@@ -1,5 +1,4 @@
-// Door Alarm Using Arduino UNO and Ultrasonic Sensor
-// Code to be used in the Text sub-window of tinkercad.com circuit page
+
 
 int trigger_pin = 5;
 int echo_pin = 6;
