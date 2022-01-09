@@ -1,4 +1,4 @@
 # Sensor-parkir
 
-![image](https://user-images.githubusercontent.com/64537170/147640450-398c4641-8951-4303-9b54-1dc1373511a5.png)
-![image](https://user-images.githubusercontent.com/64537170/147640475-4a69d8cc-b0b3-4e07-af49-cba1204c3dd7.png)
+![Rancangan di Tinkercad](https://user-images.githubusercontent.com/64537170/148684869-873834ba-1ed9-4f1f-93eb-50197d94561d.PNG)
+![Capture](https://user-images.githubusercontent.com/64537170/148684872-456ebbc7-9cc9-488d-818a-3712a1fd211f.PNG)
